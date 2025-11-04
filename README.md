@@ -33,4 +33,3 @@ The project is cleanly separated into **frontend** and **backend** for scalabili
 - `hoteldata.json` and `menudata.json` as data sources (replaceable with DB)
 - Environment variables for configuration
 
-## 📁 Project Structure
