@@ -1,0 +1,569 @@
+[
+  {
+    "name": "Taj Mahal Palace",
+    "location": "Mumbai, India",
+    "mapsLink": "https://www.google.com/maps?q=Taj+Mahal+Palace+Mumbai",
+    "link": "https://www.tajhotels.com/en-in/taj/taj-mahal-palace-mumbai/",
+    "description": "Iconic luxury hotel with Arabian Sea views.",
+    "rating": 4.9,
+    "collection": "Heritage Palace Collection",
+    "pricePerNight": {
+      "currency": "INR",
+      "Deluxe": 35000,
+      "Executive": 55000,
+      "Suite": 85000
+    },
+    "images": [
+      "https://akm-img-a-in.tosshub.com/lingo/images/story/media_bank/202312/657bdd60d1fdd-taj-mumbai-150015589-16x9.png",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/103705059.jpg?k=9e078265b31ad1815a573da8ed2a665f863e3925e1efd730df703421868a2ada&o=&hp=1"
+    ],
+    "amenities": ["WiFi", "Pool", "Spa", "Gym", "Restaurant"],
+    "roomTypes": ["Deluxe", "Executive", "Suite"]
+  },
+  {
+    "name": "The Oberoi Udaivilas",
+    "location": "Udaipur, India",
+    "mapsLink": "https://www.google.com/maps?q=The+Oberoi+Udaivilas+Udaipur",
+    "link": "https://www.oberoihotels.com/hotels-in-udaipur-udaivilas-resort/",
+    "description": "Luxury lakeside resort with heritage architecture.",
+    "rating": 4.8,
+    "collection": "Heritage Palace Collection",
+    "pricePerNight": {
+      "currency": "INR",
+      "Deluxe": 45000,
+      "Executive": 65000,
+      "Suite": 95000
+    },
+    "images": [
+      "https://media.cntraveler.com/photos/5c06e5a701ffc86b13da2528/16:9/w_2560,c_limit/The-Oberoi-Udaivilas,-Udaipur__2018_Premier-Lake-View-Rooms-with-Semi-Private-Pools---The-Oberoi-Udaivilas,-Udaipur-01.jpg",
+      "https://media.cntraveler.com/photos/5c06e5a801ffc86b13da2529/16:9/w_2560%2Cc_limit/The-Oberoi-Udaivilas%2C-Udaipur__2018_Chandni----the-al-fresco-dining---The-Oberoi-Udaivilas%2C-Udaipur.jpg"
+    ],
+    "amenities": ["WiFi", "Pool", "Spa", "Boating", "Restaurant"],
+    "roomTypes": ["Deluxe", "Executive", "Suite"]
+  },
+  {
+    "name": "Marina Bay Sands",
+    "location": "Singapore",
+    "mapsLink": "https://www.google.com/maps?q=Marina+Bay+Sands+Singapore",
+    "link": "https://www.marinabaysands.com/",
+    "description": "Iconic hotel with rooftop infinity pool and city views.",
+    "rating": 4.7,
+    "collection": "International Luxury Collection",
+    "pricePerNight": {
+      "currency": "INR",
+      "Deluxe": 28000,
+      "Executive": 42000,
+      "Suite": 75000
+    },
+    "images": [
+      "https://travelsetu.com/apps/uploads/new_destinations_photos/destination/2024/06/27/4a70d3893f2e6b9a6bc0e21b3c7f3fe7_1000x1000.jpg",
+      "https://images.luxuryescapes.com/q_auto:good/hsv9gjrxco39vpps0rj"
+    ],
+    "amenities": ["WiFi", "Pool", "Casino", "SkyPark", "Restaurant"],
+    "roomTypes": ["Deluxe", "Executive", "Suite"]
+  },
+  {
+    "name": "The Ritz-Carlton",
+    "location": "New York, USA",
+    "mapsLink": "https://www.google.com/maps?q=Ritz+Carlton+New+York",
+    "link": "https://www.ritzcarlton.com/en/hotels/new-york",
+    "description": "Upscale hotel in downtown Manhattan with luxury amenities.",
+    "rating": 4.6,
+    "collection": "International Luxury Collection",
+    "pricePerNight": {
+      "currency": "INR",
+      "Deluxe": 52000,
+      "Executive": 85000,
+      "Suite": 250000
+    },
+    "images": [
+      "https://cache.marriott.com/is/image/marriotts7prod/rz-nycro-exterior-night-30339:Wide-Hor?wid=1336&fit=constrain",
+      "https://cache.marriott.com/is/image/marriotts7prod/50540965-premiere-park-view-suite-living-room:Feature-Hor?wid=1920&fit=constrain"
+    ],
+    "amenities": ["WiFi", "Gym", "Spa", "Bar", "Restaurant"],
+    "roomTypes": ["Deluxe", "Executive", "Suite"]
+  },
+  {
+    "name": "Burj Al Arab",
+    "location": "Dubai, UAE",
+    "mapsLink": "https://www.google.com/maps?q=Burj+Al+Arab+Dubai",
+    "link": "https://www.jumeirah.com/en/stay/dubai/burj-al-arab",
+    "description": "Luxury 7-star hotel shaped like a sail.",
+    "rating": 4.9,
+    "collection": "Ultra-Luxury Collection",
+    "pricePerNight": {
+      "currency": "INR",
+      "Deluxe": 125000,
+      "Executive": 175000,
+      "Suite": 350000
+    },
+    "images": [
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/18/e7/95/aerial-shot.jpg?w=900&h=-1&s=1",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/f5/8c/02/burj-al-arab-jumeirah.jpg?w=700&h=-1&s=1"
+    ],
+    "amenities": ["WiFi", "Private Beach", "Spa", "Helipad", "Restaurant"],
+    "roomTypes": ["Deluxe", "Executive", "Suite"]
+  },
+  {
+    "name": "Four Seasons",
+    "location": "Bora Bora, French Polynesia",
+    "mapsLink": "https://www.google.com/maps?q=Four+Seasons+Bora+Bora",
+    "link": "https://www.fourseasons.com/borabora/",
+    "description": "Overwater bungalows with lagoon and mountain views.",
+    "rating": 4.8,
+    "collection": "Island Paradise Collection",
+    "pricePerNight": {
+      "currency": "INR",
+      "Deluxe": 95000,
+      "Executive": 150000,
+      "Suite": 200000
+    },
+    "images": [
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/157743713.jpg?k=bd4b4c235eedff6bfe74a3d227dffd385cdb46f939b06366541f36e962dc0803&o=",
+      "https://www.kayak.co.in/rimg/himg/70/7e/bd/leonardo-269554-162634989-819732.jpg?width=1366&height=768&crop=true"
+    ],
+    "amenities": ["WiFi", "Spa", "Beach", "Snorkeling", "Bar"],
+    "roomTypes": ["Deluxe", "Executive", "Suite"]
+  },
+  {
+    "name": "The Leela Palace",
+    "location": "New Delhi, India",
+    "mapsLink": "https://www.google.com/maps?q=Leela+Palace+New+Delhi",
+    "link": "https://www.theleela.com/the-leela-palace-new-delhi",
+    "description": "Elegant palace hotel in the heart of Delhi.",
+    "rating": 4.7,
+    "collection": "Heritage Palace Collection",
+    "pricePerNight": {
+      "currency": "INR",
+      "Deluxe": 32000,
+      "Executive": 45000,
+      "Suite": 75000
+    },
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/5648061.jpg?k=4629f919fb92436c3e19b71734d208d8e58201df7b29773f90089639f367db6d&o=&hp=1",
+      "https://www.andbeyond.com/wp-content/uploads/sites/5/Lobby-Lounge-at-Leela-Palace.jpg"
+    ],
+    "amenities": ["WiFi", "Spa", "Pool", "Gym", "Restaurant"],
+    "roomTypes": ["Deluxe", "Executive", "Suite"]
+  },
+  {
+    "name": "Hotel Plaza Athénée",
+    "location": "Paris, France",
+    "mapsLink": "https://www.google.com/maps?q=Hotel+Plaza+Athenee+Paris",
+    "link": "https://www.dorchestercollection.com/en/paris/hotel-plaza-athenee/",
+    "description": "Luxury hotel near the Eiffel Tower.",
+    "rating": 4.6,
+    "collection": "European Luxury Collection",
+    "pricePerNight": {
+      "currency": "INR",
+      "Deluxe": 48000,
+      "Executive": 75000,
+      "Suite": 125000
+    },
+    "images": [
+      "https://www.dorchestercollection.com/media/vl5hh0wg/2022_05_hpa_jipa_0085_v1.jpg?rxy=0.45614035087719296%2C0.6552572523901915&width=1024&height=576&rmode=crop",
+      "https://www.kayak.co.in/rimg/himg/0d/a8/27/expedia_group-12052-110353543-178998.jpg?width=1366&height=768&crop=true"
+    ],
+    "amenities": ["WiFi", "Spa", "Terrace", "Boutiques", "Restaurant"],
+    "roomTypes": ["Deluxe", "Executive", "Suite"]
+  },
+  {
+    "name": "Mandarin Oriental",
+    "location": "Bangkok, Thailand",
+    "mapsLink": "https://www.google.com/maps?q=Mandarin+Oriental+Bangkok",
+    "link": "https://www.mandarinoriental.com/en/bangkok",
+    "description": "Elegant riverside hotel with Thai decor.",
+    "rating": 4.7,
+    "collection": "Asian Luxury Collection",
+    "pricePerNight": {
+      "currency": "INR",
+      "Deluxe": 22000,
+      "Executive": 28000,
+      "Suite": 55000
+    },
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/e/e5/Mandarin_Oriental_Bangkok_Bang_Rak.jpg",
+      "https://s3.us-west-1.amazonaws.com/assets.curatorstravel.com/original/hotels/416/1594798310193.webp"
+    ],
+    "amenities": ["WiFi", "Spa", "River Cruise", "Gym", "Restaurant"],
+    "roomTypes": ["Deluxe", "Executive", "Suite"]
+  },
+  {
+    "name": "The Venetian Resort",
+    "location": "Las Vegas, USA",
+    "mapsLink": "https://www.google.com/maps?q=Venetian+Resort+Las+Vegas",
+    "link": "https://www.venetianlasvegas.com/",
+    "description": "Italian-themed luxury resort with canals.",
+    "rating": 4.6,
+    "collection": "Entertainment Luxury Collection",
+    "pricePerNight": {
+      "currency": "INR",
+      "Deluxe": 18000,
+      "Executive": 28000,
+      "Suite": 85000
+    },
+    "images": [
+      "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2024/11/27/1423/LASVV-P0002-Grand-Canal-Shoppes.jpg/LASVV-P0002-Grand-Canal-Shoppes.4x3.jpg",
+      "https://begasvaby.com/wp-content/uploads/2022/07/Venetian-Las-Vegas-hotels.jpg"
+    ],
+    "amenities": ["Casino", "WiFi", "Spa", "Pool", "Shopping"],
+    "roomTypes": ["Deluxe", "Executive", "Suite"]
+  },
+  {
+    "name": "Fairmont Banff Springs",
+    "location": "Alberta, Canada",
+    "mapsLink": "https://www.google.com/maps?q=Fairmont+Banff+Springs+Canada",
+    "link": "https://www.fairmont.com/banff-springs/",
+    "description": "Castle-like hotel in the Canadian Rockies.",
+    "rating": 4.8,
+    "collection": "Mountain Resort Collection",
+    "pricePerNight": {
+      "currency": "INR",
+      "Deluxe": 25000,
+      "Executive": 35000,
+      "Suite": 65000
+    },
+    "images": [
+      "https://m.ahstatic.com/is/image/accorhotels/HCM_P_8805489:4by3?fmt=jpg&op_usm=1.75,0.3,2,0&resMode=sharp2&iccEmbed=true&icc=sRGB&dpr=on,1.5&wid=335&hei=251&qlt=80",
+      "https://m.ahstatic.com/is/image/accorhotels/TEMP_ASSET_HCM_P_8761252:4by3?fmt=jpg&op_usm=1.75,0.3,2,0&resMode=sharp2&iccEmbed=true&icc=sRGB&dpr=on,1.5&wid=335&hei=251&qlt=80"
+    ],
+    "amenities": ["WiFi", "Skiing", "Spa", "Hiking", "Restaurant"],
+    "roomTypes": ["Deluxe", "Executive", "Suite"]
+  },
+  {
+    "name": "The Peninsula",
+    "location": "Hong Kong",
+    "mapsLink": "https://www.google.com/maps?q=Peninsula+Hotel+Hong+Kong",
+    "link": "https://www.peninsula.com/en/hong-kong",
+    "description": "Colonial-era hotel with modern elegance.",
+    "rating": 4.6,
+    "collection": "Asian Luxury Collection",
+    "pricePerNight": {
+      "currency": "INR",
+      "Deluxe": 38000,
+      "Executive": 48000,
+      "Suite": 85000
+    },
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU-aPVN2cOcHcYSaYfVvbvYxTVXH2J2bnUbg&s",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/533644910.jpg?k=5208b1fc0aff71ec428b7b7c2f4dd8a5ece5863d3f0f8f0d10174612fbd99e43&o=&hp=1"
+    ],
+    "amenities": ["WiFi", "Spa", "Pool", "Chauffeur Service", "Restaurant"],
+    "roomTypes": ["Deluxe", "Executive", "Suite"]
+  },
+  {
+    "name": "Turtle Bay Resort",
+    "location": "Hawaii, USA",
+    "mapsLink": "https://www.google.com/maps?q=Turtle+Bay+Resort+Hawaii",
+    "link": "https://www.turtlebayresort.com/",
+    "description": "Oceanfront resort with tropical charm.",
+    "rating": 4.5,
+    "collection": "Island Paradise Collection",
+    "pricePerNight": {
+      "currency": "INR",
+      "Deluxe": 32000,
+      "Executive": 55000,
+      "Suite": 85000
+    },
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/617411497.jpg?k=194e91db9509eb0f10765eb381a13c3ae58d57cbedf3f566613dd862c9427294&o=&hp=1",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmugnVxxlZjw-YFD-UWN40M59o-Kd8dfJunw&s"
+    ],
+    "amenities": ["Beach", "Spa", "Golf", "Surfing", "WiFi"],
+    "roomTypes": ["Deluxe", "Executive", "Suite"]
+  },
+  {
+    "name": "The Langham",
+    "location": "London, UK",
+    "mapsLink": "https://www.google.com/maps?q=The+Langham+London",
+    "link": "https://www.langhamhotels.com/en/the-langham/london/",
+    "description": "Classic British luxury hotel in the West End.",
+    "rating": 4.7,
+    "collection": "European Luxury Collection",
+    "pricePerNight": {
+      "currency": "INR",
+      "Deluxe": 42000,
+      "Executive": 58000,
+      "Suite": 95000
+    },
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Langham_london.jpg/1200px-Langham_london.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ72nCi7o-5-cKVYXDPywFF4neMuIci3ET9hg&s"
+    ],
+    "amenities": ["Afternoon Tea", "Spa", "WiFi", "Bar", "Restaurant"],
+    "roomTypes": ["Deluxe", "Executive", "Suite"]
+  },
+  {
+    "name": "The St. Regis",
+    "location": "Mumbai, India",
+    "mapsLink": "https://www.google.com/maps?q=St+Regis+Mumbai",
+    "link": "https://www.marriott.com/en-us/hotels/bomxr-the-st-regis-mumbai/",
+    "description": "High-rise hotel with skyline and sea views.",
+    "rating": 4.7,
+    "collection": "Metropolitan Luxury Collection",
+    "pricePerNight": {
+      "currency": "INR",
+      "Deluxe": 38000,
+      "Executive": 65000,
+      "Suite": 95000
+    },
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOz72BkbK1kSO1xR6_27ebIoAos4YTCVao7Q&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQtVwzGvYskcTnMEFa25J46pvXX2KLKF9-9Q&s"
+    ],
+    "amenities": ["WiFi", "Infinity Pool", "Spa", "Gym", "Restaurant"],
+    "roomTypes": ["Deluxe", "Executive", "Suite"]
+  },
+  {
+    "name": "Amangiri",
+    "location": "Utah, USA",
+    "mapsLink": "https://www.google.com/maps?q=Amangiri+Utah",
+    "link": "https://www.aman.com/resorts/amangiri",
+    "description": "Minimalist desert resort for luxury solitude.",
+    "rating": 4.9,
+    "collection": "Ultra-Luxury Collection",
+    "pricePerNight": {
+      "currency": "INR",
+      "Deluxe": 185000,
+      "Executive": 225000,
+      "Suite": 275000
+    },
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/0d/54/4c/a2/amangiri-pavilion-and.jpg",
+      "https://cdn.prod.website-files.com/6242699f5d285614ea782f2d/653171442de06c4098f496c1_Amangiri.webp"
+    ],
+    "amenities": ["Spa", "Yoga", "Private Tours", "WiFi", "Pool"],
+    "roomTypes": ["Deluxe", "Executive", "Suite"]
+  },
+  {
+    "name": "Umaid Bhawan Palace",
+    "location": "Jodhpur, India",
+    "mapsLink": "https://www.google.com/maps?q=Umaid+Bhawan+Palace+Jodhpur",
+    "link": "https://www.tajhotels.com/en-in/taj/umaid-bhawan-palace-jodhpur/",
+    "description": "Royal palace hotel with heritage architecture.",
+    "rating": 4.8,
+    "collection": "Heritage Palace Collection",
+    "pricePerNight": {
+      "currency": "INR",
+      "Deluxe": 55000,
+      "Executive": 85000,
+      "Suite": 125000
+    },
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/9/9a/1996_-218-20A_Jodhpur_Hotel_Umaid_Bhawan_Palace_%282233393509%29.jpg",
+      "https://destinationdeluxe.com/wp-content/uploads/2018/05/Taj-Umaid-Bhawan-Palace-Jodhpur-Destination-Deluxe-570x381.jpg"
+    ],
+    "amenities": ["Museum", "Spa", "Garden", "Restaurant", "WiFi"],
+    "roomTypes": ["Deluxe", "Executive", "Suite"]
+  },
+  {
+    "name": "Shangri-La",
+    "location": "Tokyo, Japan",
+    "mapsLink": "https://www.google.com/maps?q=Shangri-La+Tokyo",
+    "link": "https://www.shangri-la.com/tokyo/shangrila/",
+    "description": "Elegant hotel with city and Mount Fuji views.",
+    "rating": 4.6,
+    "collection": "Asian Luxury Collection",
+    "pricePerNight": {
+      "currency": "INR",
+      "Deluxe": 45000,
+      "Executive": 58000,
+      "Suite": 95000
+    },
+    "images": [
+      "https://ik.imgkit.net/3vlqs5axxjf/external/ik-seo/https://media.iceportal.com/73945/photos/68950259_XL/Shangri-La-Hotel-Tokyo-Exterior.jpg?tr=w-656%2Ch-390%2Cfo-auto",
+      "https://images.trvl-media.com/lodging/3000000/2440000/2434400/2434355/3afd8c49.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill"
+    ],
+    "amenities": ["WiFi", "Spa", "Fine Dining", "Bar", "Fitness Center"],
+    "roomTypes": ["Deluxe", "Executive", "Suite"]
+  },
+  {
+    "name": "Waldorf Astoria",
+    "location": "Beijing, China",
+    "mapsLink": "https://www.google.com/maps?q=Waldorf+Astoria+Beijing",
+    "link": "https://www.hilton.com/en/hotels/pekwawa-waldorf-astoria-beijing/",
+    "description": "Modern luxury with Chinese heritage flair.",
+    "rating": 4.6,
+    "collection": "Asian Luxury Collection",
+    "pricePerNight": {
+      "currency": "INR",
+      "Deluxe": 32000,
+      "Executive": 42000,
+      "Suite": 75000
+    },
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483808813.jpg?k=e02a7792b2f6aef203d323c2de8b089224fbf570d236d104664c513eb47a758a&o=&hp=1",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtaoS-Lz2bnT8QU9q3Z_kA0R_I1fOysQm6jw&s"
+    ],
+    "amenities": ["WiFi", "Spa", "Tea Lounge", "Gym", "Restaurant"],
+    "roomTypes": ["Deluxe", "Executive", "Suite"]
+  },
+  {
+    "name": "JW Marriott",
+    "location": "Jaipur, India",
+    "mapsLink": "https://www.google.com/maps?q=JW+Marriott+Jaipur",
+    "link": "https://www.marriott.com/en-us/hotels/jaqjw-jw-marriott-hotel-jaipur/",
+    "description": "Palatial hotel with Rajasthani architecture.",
+    "rating": 4.7,
+    "collection": "Heritage Palace Collection",
+    "pricePerNight": {
+      "currency": "INR",
+      "Deluxe": 28000,
+      "Executive": 35000,
+      "Suite": 55000
+    },
+    "images": [
+      "https://media1.thrillophilia.com/filestore/161jtba1qj2v2gqe8bgkvps2sdsk_1591781267_jw-marriott-jaipur-resort.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCzLLQff1iHNaKugecedbl_kLSCMLDJ3KUFA&s"
+    ],
+    "amenities": ["WiFi", "Spa", "Courtyard", "Bar", "Restaurant"],
+    "roomTypes": ["Deluxe", "Executive", "Suite"]
+  },
+  {
+    "name": "The Savoy",
+    "location": "London, UK",
+    "mapsLink": "https://www.google.com/maps?q=The+Savoy+London",
+    "link": "https://www.fairmont.com/savoy-london/",
+    "description": "Historic luxury hotel by the River Thames.",
+    "rating": 4.8,
+    "collection": "European Luxury Collection",
+    "pricePerNight": {
+      "currency": "INR",
+      "Deluxe": 55000,
+      "Executive": 75000,
+      "Suite": 125000
+    },
+    "images": [
+      "https://dq5r178u4t83b.cloudfront.net/wp-content/uploads/sites/86/2020/09/08103037/reopening-post-min.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZWiHoWaQWZgB57XzjKSYWHbbLZLkK-cAVyg&s"
+    ],
+    "amenities": ["Afternoon Tea", "Theatre Concierge", "WiFi", "Bar"],
+    "roomTypes": ["Deluxe", "Executive", "Suite"]
+  },
+  {
+    "name": "Taj Lake Palace",
+    "location": "Udaipur, India",
+    "mapsLink": "https://www.google.com/maps?q=Taj+Lake+Palace+Udaipur",
+    "link": "https://www.tajhotels.com/en-in/taj/taj-lake-palace-udaipur/",
+    "description": "Floating marble palace on Lake Pichola.",
+    "rating": 4.9,
+    "collection": "Heritage Palace Collection",
+    "pricePerNight": {
+      "currency": "INR",
+      "Deluxe": 65000,
+      "Executive": 125000,
+      "Suite": 185000
+    },
+    "images": [
+      "https://www.tata.com/content/dam/tata/images/newsroom/heritage/desktop/50_years_taj_lake_palace_banner_desktop_1920x1080.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkNaWnp5KYBFUOyfKHPOMP0rTTWffsV1oBxw&s"
+    ],
+    "amenities": ["Boat Ride", "Spa", "Heritage Walks", "WiFi", "Restaurant"],
+    "roomTypes": ["Deluxe", "Executive", "Suite"]
+  },
+  {
+    "name": "Park Hyatt",
+    "location": "Sydney, Australia",
+    "mapsLink": "https://www.google.com/maps?q=Park+Hyatt+Sydney",
+    "link": "https://www.hyatt.com/en-US/hotel/australia/park-hyatt-sydney/sydph",
+    "description": "Harbourfront hotel with Sydney Opera House views.",
+    "rating": 4.7,
+    "collection": "International Luxury Collection",
+    "pricePerNight": {
+      "currency": "INR",
+      "Deluxe": 48000,
+      "Executive": 75000,
+      "Suite": 125000
+    },
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGMkjvZA9vNOnoVUlK6or4b-LOHwW3A4GlLQ&s",
+      "https://assets.talentronic.com/photos/employers/254547/354266_l.jpg"
+    ],
+    "amenities": ["WiFi", "Pool", "Spa", "Bar", "Restaurant"],
+    "roomTypes": ["Deluxe", "Executive", "Suite"]
+  },
+  {
+    "name": "The Imperial",
+    "location": "New Delhi, India",
+    "mapsLink": "https://www.google.com/maps?q=The+Imperial+Hotel+Delhi",
+    "link": "https://www.theimperialindia.com/",
+    "description": "Colonial-era hotel with vintage charm.",
+    "rating": 4.6,
+    "collection": "Heritage Palace Collection",
+    "pricePerNight": {
+      "currency": "INR",
+      "Deluxe": 25000,
+      "Executive": 55000,
+      "Suite": 85000
+    },
+    "images": [
+      "https://www.andbeyond.com/wp-content/uploads/sites/5/Lobby-at-The-Imperial.jpg",
+      "https://gos3.ibcdn.com/5170d87acaaf11e783cb0a9df65c8753.jpg"
+    ],
+    "amenities": ["WiFi", "Spa", "Art Gallery", "Bar", "Restaurant"],
+    "roomTypes": ["Deluxe", "Executive", "Suite"]
+  },
+  {
+    "name": "Alila Fort Bishangarh",
+    "location": "Rajasthan, India",
+    "mapsLink": "https://www.google.com/maps?q=Alila+Fort+Bishangarh",
+    "link": "https://www.alilahotels.com/fortbishangarh",
+    "description": "Luxury heritage fort-turned-hotel.",
+    "rating": 4.8,
+    "collection": "Heritage Palace Collection",
+    "pricePerNight": {
+      "currency": "INR",
+      "Deluxe": 45000,
+      "Executive": 65000,
+      "Suite": 85000
+    },
+    "images": [
+      "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2019/02/14/0828/Alila-Fort-Bishangarh-P021-Exterior-at-Night.jpg/Alila-Fort-Bishangarh-P021-Exterior-at-Night.16x9.jpg?imwidth=1920",
+      "https://images.blacktomato.com/2017/12/Heritage-Room.jpg?auto=compress%2Cformat&fit=crop&h=800&ixlib=php-3.3.1&q=82&w=1520&s=18891669d36a93c396a55b2baa5ff480"
+    ],
+    "amenities": ["Spa", "Heritage Tours", "Pool", "WiFi", "Restaurant"],
+    "roomTypes": ["Deluxe", "Executive", "Suite"]
+  },
+  {
+  "name": "Aman Tokyo",
+  "location": "Tokyo, Japan",
+  "mapsLink": "https://www.google.com/maps?q=Aman+Tokyo",
+  "link": "https://www.aman.com/resorts/aman-tokyo",
+  "description": "Minimalist luxury hotel with panoramic city views and traditional Japanese design.",
+  "rating": 4.9,
+  "collection": "Ultra-Luxury Collection",
+  "pricePerNight": {
+    "currency": "INR",
+    "Deluxe": 85000,
+    "Executive": 120000,
+    "Suite": 200000
+  },
+  "images": [
+    "https://www.aman.com/sites/default/files/2023-11/aman_tokyo_japan_-_fb_the_cafe_by_aman_forest_exterior.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLVSSwqU1RRCL91o6sLwEKUrA1mY2prrndxA&s"
+  ],
+  "amenities": ["WiFi", "Spa", "Infinity Pool", "Tea Ceremonies", "Fine Dining"],
+  "roomTypes": ["Deluxe", "Executive", "Suite"]
+},
+{
+  "name": "Belmond Hotel Caruso",
+  "location": "Amalfi Coast, Italy",
+  "mapsLink": "https://www.google.com/maps?q=Belmond+Hotel+Caruso",
+  "link": "https://www.belmond.com/hotels/europe/italy/amalfi-coast/belmond-hotel-caruso/",
+  "description": "Clifftop 11th-century palace with infinity pool overlooking the Mediterranean.",
+  "rating": 4.8,
+  "collection": "European Luxury Collection",
+  "pricePerNight": {
+    "currency": "INR",
+    "Deluxe": 95000,
+    "Executive": 150000,
+    "Suite": 250000
+  },
+  "images": [
+    "https://rbcollection.com/wp-content/uploads/2015/08/HCR-REST-EXT-11-3-700x500.jpg",
+    "https://hips.hearstapps.com/hmg-prod/images/j0855-hcr-0150-top-1532094356.jpg?resize=640:*"
+  ],
+  "amenities": ["WiFi", "Infinity Pool", "Private Beach", "Cooking Classes", "Wine Tasting"],
+  "roomTypes": ["Deluxe", "Executive", "Suite"]
+}
+]
